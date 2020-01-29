@@ -1,1 +1,1 @@
-def reverses_each_word(sentince1)
+def reverses_each_word("hello world")
