@@ -1,0 +1,1 @@
+def reverses_each_word(sentince1)
